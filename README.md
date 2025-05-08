@@ -24,7 +24,7 @@ Installation
 
 Clone the repository:
 
-git clone .git
+git clone https://github.com/rahulsamal12/ATS-SCORE-CHECKER.git
 
 Set up MySQL database and import necessary schema.
 
